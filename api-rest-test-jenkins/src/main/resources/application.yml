@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: 'api-rest-test-jenkins'
+
+server:
+  port: 7280
