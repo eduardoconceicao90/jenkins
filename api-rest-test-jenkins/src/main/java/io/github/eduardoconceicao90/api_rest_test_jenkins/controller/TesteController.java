@@ -10,7 +10,7 @@ public class TesteController {
 
     @GetMapping
     public String teste() {
-        return "Teste realizado com sucesso!";
+        return "Teste 2 realizado com sucesso!";
     }
 
 }
