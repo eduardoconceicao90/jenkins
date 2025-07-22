@@ -21,6 +21,8 @@ import static org.mockito.Mockito.*;
 @SpringBootTest
 public class ProductoControllerTest {
 
+    // Teste de unidade para o ProdutoController
+
     @InjectMocks
     private ProdutoController produtoController;
 
